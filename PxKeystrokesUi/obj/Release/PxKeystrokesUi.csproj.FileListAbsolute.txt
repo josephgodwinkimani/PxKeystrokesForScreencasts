@@ -1,0 +1,11 @@
+C:\Users\Root\Documents\Visual Studio 2017\Projects\PxKeystrokesForScreencasts\PxKeystrokesUi\bin\Release\PxKeystrokesUi.exe.config
+C:\Users\Root\Documents\Visual Studio 2017\Projects\PxKeystrokesForScreencasts\PxKeystrokesUi\bin\Release\PxKeystrokesUi.exe
+C:\Users\Root\Documents\Visual Studio 2017\Projects\PxKeystrokesForScreencasts\PxKeystrokesUi\bin\Release\PxKeystrokesUi.pdb
+C:\Users\Root\Documents\Visual Studio 2017\Projects\PxKeystrokesForScreencasts\PxKeystrokesUi\obj\Release\PxKeystrokesUi.ButtonIndicator.resources
+C:\Users\Root\Documents\Visual Studio 2017\Projects\PxKeystrokesForScreencasts\PxKeystrokesUi\obj\Release\PxKeystrokesUi.CursorIndicator.resources
+C:\Users\Root\Documents\Visual Studio 2017\Projects\PxKeystrokesForScreencasts\PxKeystrokesUi\obj\Release\PxKeystrokesUi.KeystrokesDisplay.resources
+C:\Users\Root\Documents\Visual Studio 2017\Projects\PxKeystrokesForScreencasts\PxKeystrokesUi\obj\Release\PxKeystrokesUi.Properties.Resources.resources
+C:\Users\Root\Documents\Visual Studio 2017\Projects\PxKeystrokesForScreencasts\PxKeystrokesUi\obj\Release\PxKeystrokesUi.Settings.resources
+C:\Users\Root\Documents\Visual Studio 2017\Projects\PxKeystrokesForScreencasts\PxKeystrokesUi\obj\Release\PxKeystrokesUi.csproj.GenerateResource.Cache
+C:\Users\Root\Documents\Visual Studio 2017\Projects\PxKeystrokesForScreencasts\PxKeystrokesUi\obj\Release\PxKeystrokesUi.exe
+C:\Users\Root\Documents\Visual Studio 2017\Projects\PxKeystrokesForScreencasts\PxKeystrokesUi\obj\Release\PxKeystrokesUi.pdb

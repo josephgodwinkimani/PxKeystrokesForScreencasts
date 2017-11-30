@@ -1,0 +1,11 @@
+C:\Users\Root\Documents\Visual Studio 2017\Projects\PxKeystrokesForScreencasts\PxKeystrokesTests\bin\Debug\PxKeystrokesTests.dll
+C:\Users\Root\Documents\Visual Studio 2017\Projects\PxKeystrokesForScreencasts\PxKeystrokesTests\bin\Debug\PxKeystrokesTests.pdb
+C:\Users\Root\Documents\Visual Studio 2017\Projects\PxKeystrokesForScreencasts\PxKeystrokesTests\bin\Debug\PxKeystrokesTests.dll.CodeAnalysisLog.xml
+C:\Users\Root\Documents\Visual Studio 2017\Projects\PxKeystrokesForScreencasts\PxKeystrokesTests\bin\Debug\PxKeystrokesTests.dll.lastcodeanalysissucceeded
+C:\Users\Root\Documents\Visual Studio 2017\Projects\PxKeystrokesForScreencasts\PxKeystrokesTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Root\Documents\Visual Studio 2017\Projects\PxKeystrokesForScreencasts\PxKeystrokesTests\bin\Debug\PxKeystrokesUi.exe
+C:\Users\Root\Documents\Visual Studio 2017\Projects\PxKeystrokesForScreencasts\PxKeystrokesTests\bin\Debug\PxKeystrokesUi.pdb
+C:\Users\Root\Documents\Visual Studio 2017\Projects\PxKeystrokesForScreencasts\PxKeystrokesTests\bin\Debug\PxKeystrokesUi.exe.config
+C:\Users\Root\Documents\Visual Studio 2017\Projects\PxKeystrokesForScreencasts\PxKeystrokesTests\obj\Debug\PxKeystrokesTests.csprojResolveAssemblyReference.cache
+C:\Users\Root\Documents\Visual Studio 2017\Projects\PxKeystrokesForScreencasts\PxKeystrokesTests\obj\Debug\PxKeystrokesTests.dll
+C:\Users\Root\Documents\Visual Studio 2017\Projects\PxKeystrokesForScreencasts\PxKeystrokesTests\obj\Debug\PxKeystrokesTests.pdb
